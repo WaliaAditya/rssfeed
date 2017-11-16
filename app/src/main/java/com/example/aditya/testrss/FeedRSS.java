@@ -1,7 +1,7 @@
 package com.example.aditya.testrss;
 
 /**
- * Created by Ankit Kaushik on 2017-06-04.
+ * Created by Aditya Walia on 2017-06-04.
  */
 
 public class FeedRSS {
