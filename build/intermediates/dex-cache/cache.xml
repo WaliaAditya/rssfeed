@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\adity\.android\build-cache\c15138dfdd7ceeea87484e67c7d987e0856b89fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\adity\AndroidStudioProjects\testrss\app\build\intermediates\pre-dexed\debug\classes_d0b59b447eff17c8532e05eff54e046cc217c35d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adity\.android\build-cache\69590844f22d49a78b248ccb96cd784bb23d69aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\adity\AndroidStudioProjects\testrss\app\build\intermediates\pre-dexed\debug\classes_6673eb5d0bfd531b80b1a6d558e5e60f162750ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adity\.android\build-cache\bbd4c8b72491119a70a2d532a89154435cd5fce6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\adity\AndroidStudioProjects\testrss\app\build\intermediates\pre-dexed\debug\classes_cfbaf07ed4608ede180e8e59a6040858bc8b6696.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adity\.android\build-cache\8142ef0d8d75b4745dc0305bf028f11e9fbdfc03\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\adity\AndroidStudioProjects\testrss\app\build\intermediates\pre-dexed\debug\classes_b757032c47de39b0fffa7af6314dc238d857f734.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adity\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\adity\AndroidStudioProjects\testrss\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_8170a5a163e629b22fa6bf13097c26c8dd9e7eaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adity\.android\build-cache\0526c9432b0bb0bb5b0dc078bbd097d516ae267e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\adity\AndroidStudioProjects\testrss\app\build\intermediates\pre-dexed\debug\classes_a71a6d91fd1d19856bd55b3471b54383f9e29aa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adity\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\adity\AndroidStudioProjects\testrss\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_06879fd48657748964566dec87ba3f9880486b43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adity\.android\build-cache\9b3451c0d25fee41b1e2ae01a1d888f5745d8447\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\adity\AndroidStudioProjects\testrss\app\build\intermediates\pre-dexed\debug\classes_18cc18d5261de09a7f49b3a0ccbc0e98daec5c96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adity\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\adity\AndroidStudioProjects\testrss\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_a6c8c3e19a164838154aa18021da010f91199878.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adity\.android\build-cache\075ad9c1c3133188713700b1464a1a7059b4bccb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="C:\Users\adity\AndroidStudioProjects\testrss\app\build\intermediates\pre-dexed\debug\classes_beecb63cf26f6d0ea280616c1e09d22df02de090.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adity\.android\build-cache\1847af783a895168d3d7f12ec6047c350f8d25e3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\adity\AndroidStudioProjects\testrss\app\build\intermediates\pre-dexed\debug\classes_0a79aa71bc6508c9521b0f2ac51c02f020ca058f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adity\.android\build-cache\d744dac8244ca33077e204bd3c52605ebeab673b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\adity\AndroidStudioProjects\testrss\app\build\intermediates\pre-dexed\debug\classes_2b0106b40c9cae6c13f666fd270a52537fa7e7fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adity\.android\build-cache\92052be23b4d963c501f8d451aef721b3383be8d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\adity\AndroidStudioProjects\testrss\app\build\intermediates\pre-dexed\debug\classes_4c8c2433cae2364c089d45c8ee035b10596f3c72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adity\.android\build-cache\04e6b7f0163cf38a3e8090a3f79e33ec84362760\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\adity\AndroidStudioProjects\testrss\app\build\intermediates\pre-dexed\debug\classes_8be4e4ec105725b87975d3d25ff6b6f72d9e942f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adity\.android\build-cache\74be49d4f65d1b274e8dfbcfdc0b1b152592302d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="C:\Users\adity\AndroidStudioProjects\testrss\app\build\intermediates\pre-dexed\debug\classes_43b7b2f1647512f5d4edff4bb002128648b2adb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adity\.android\build-cache\8e2eda69dc574828dfd33b8ba185c6f16ecdf04f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\adity\AndroidStudioProjects\testrss\app\build\intermediates\pre-dexed\debug\classes_5fed7cced2f33d217a1cd98fb275c44a086b4205.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adity\.android\build-cache\e8a91faeee627d6a08e4f09710f7ca13dcd1a575\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\adity\AndroidStudioProjects\testrss\app\build\intermediates\pre-dexed\debug\classes_f56ececc0947788dc2898812d23187b147ddec5c.jar" />
+    </item>
+
+</items>
